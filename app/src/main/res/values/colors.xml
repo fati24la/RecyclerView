@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="AppTheme.Red" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Couleur principale de la barre d'action -->
+        <item name="colorPrimary">#FF0000</item>
+        <!-- Couleur plus foncée pour la barre d'état -->
+        <item name="colorPrimaryDark">#C70000</item>
+        <!-- Couleur d'accentuation pour les contrôles interactifs -->
+        <item name="colorAccent">#FF0000</item>
+
+    </style>
+</resources>
